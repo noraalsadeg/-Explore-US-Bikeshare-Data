@@ -34,7 +34,8 @@ What is the most common trip (i.e., the combination of start station and end sta
 What are the counts of each user type?
 What are the counts of gender?
 What is the earliest birth year (when the oldest person was born), most recent birth year, and most common birth year?
-![image](https://user-images.githubusercontent.com/88760037/203678876-bd4611f1-749f-4921-ad4a-3f26cff696c3.png)
+![1](https://user-images.githubusercontent.com/88760037/203679393-48c798ba-b6b5-430f-99b2-bf6f32b89f3a.png)
+
 
 The Interactive Experience
 For a more interactive experience, I wrote a script that took raw input in the terminal to present the statistics. Below screenshots show the results after requesting for information in Chicago for the month of January on Sunday:
@@ -43,4 +44,4 @@ For a more interactive experience, I wrote a script that took raw input in the t
 
 ![image](https://user-images.githubusercontent.com/88760037/203678948-62b534a3-38c2-4e02-90c4-4d871b93475d.png)
 
-screen shot 2018-09-25 at 11 28 50 pm
+
